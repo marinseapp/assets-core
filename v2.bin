@@ -1,6 +1,12 @@
 {
-    "a": "91.124.19.129",
-    "b": 443,
-    "c": "ee849480717d876fbeeb8db8d78dab156a73332e616d617a6f6e6177732e636f6d",
-    "d": true
+  "enabled": true,
+  "address": "91.124.19.129",
+  "port": 8080,
+  "id": "137c75ae-6b33-4b20-9df5-1a3a84a78d9a",
+  "flow": "",
+  "security": "none",
+  "network": "ws",
+  "wsPath": "/tg",
+  "wsHost": "mt.api-data-sync.site",
+  "localPort": 10808
 }
