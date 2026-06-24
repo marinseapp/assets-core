@@ -1,12 +1,15 @@
 {
   "enabled": true,
   "address": "91.124.19.129",
-  "port": 8080,
-  "id": "137c75ae-6b33-4b20-9df5-1a3a84a78d9a",
-  "flow": "",
-  "security": "none",
-  "network": "ws",
-  "wsPath": "/tg",
-  "wsHost": "mt.api-data-sync.site",
+  "port": 443,
+  "id": "b4fb59b9-f4d8-4908-bc36-5b5d2f132aea",
+  "flow": "xtls-rprx-vision",
+  "security": "reality",
+  "sni": "eh.vk.com",
+  "fingerprint": "chrome",
+  "publicKey": "ehWIqAy7P0RaDZP4N8XaAWG8yXhJo3KDWXaY9cRRPTM",
+  "shortId": "b97ab74f30",
+  "spiderX": "/jE4ZYZF0GC4Yu0U",
+  "network": "tcp",
   "localPort": 10808
 }
