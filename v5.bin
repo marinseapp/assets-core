@@ -1,6 +1,12 @@
 {
-    "a": "mtproxy.neverspy.online",
-    "b": 443,
-    "c": "dde8653d2faf392a302d829d79537abbe7",
-    "d": false
+  "enabled": true,
+  "address": "91.124.19.129",
+  "port": 8080,
+  "id": "137c75ae-6b33-4b20-9df5-1a3a84a78d9a",
+  "flow": "",
+  "security": "none",
+  "network": "ws",
+  "wsPath": "/tg",
+  "wsHost": "mt.api-data-sync.site",
+  "localPort": 10808
 }
