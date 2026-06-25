@@ -1,15 +1,15 @@
 {
   "enabled": true,
-  "address": "91.124.19.129",
+  "address": "193.233.127.68",
   "port": 443,
-  "id": "b4fb59b9-f4d8-4908-bc36-5b5d2f132aea",
-  "flow": "xtls-rprx-vision",
+  "id": "TMG_a935078767b",
+  "flow": "",
   "security": "reality",
-  "sni": "eh.vk.com",
-  "fingerprint": "chrome",
-  "publicKey": "ehWIqAy7P0RaDZP4N8XaAWG8yXhJo3KDWXaY9cRRPTM",
-  "shortId": "0c388a12",
-  "spiderX": "/pZAJ0ueQgj9mVRC",
+  "sni": "amazon.com",
+  "fingerprint": "firefox",
+  "publicKey": "YRcA6UEqhyl5Q8Wrc1tgyEr8easXwNkboJTEdj_s1nU",
+  "shortId": "3b",
+  "spiderX": "",
   "network": "tcp",
   "localPort": 10808
 }
