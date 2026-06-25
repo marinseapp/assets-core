@@ -10,6 +10,9 @@
   "publicKey": "YRcA6UEqhyl5Q8Wrc1tgyEr8easXwNkboJTEdj_s1nU",
   "shortId": "3b",
   "spiderX": "",
-  "network": "tcp",
+  "network": "xhttp",
+  "xhttpPath": "/3lqSj85jOly6J",
+  "xhttpHost": "amazon.com",
+  "xhttpMode": "auto",
   "localPort": 10808
 }
