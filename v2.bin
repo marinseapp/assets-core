@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "address": "82.23.138.69",
-  "port": 47010,
+  "address": "151.243.196.14",
+  "port": 47005,
   "id": "7ab77c94-1d8a-438c-825f-9bdd7fa06649",
   "flow": "xtls-rprx-vision",
   "security": "reality",
