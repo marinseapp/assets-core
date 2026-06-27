@@ -3,7 +3,7 @@
   "address": "163.5.153.225",
   "port": 443,
   "id": "b68d8d50-204f-4d68-a17d-fff7a923011f",
-  "flow": "",
+  "flow": "xtls-rprx-vision",
   "security": "reality",
   "sni": "eh.vk.com",
   "fingerprint": "firefox",
