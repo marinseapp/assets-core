@@ -2,14 +2,14 @@
   "enabled": true,
   "address": "163.5.153.225",
   "port": 443,
-  "id": "faa80918-c7cb-40fa-b4d5-f409bfb4ed48",
+  "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
   "flow": "xtls-rprx-vision",
   "security": "reality",
   "sni": "eh.vk.com",
   "fingerprint": "firefox",
-  "publicKey": "leOYIk9lnmbkRB2wNlzkL4Y9F9-Ktttz35SaTr7kF0E",
-  "shortId": "",
-  "spiderX": "/M8mtCaJT0etLdfw",
+  "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+  "shortId": "26505150",
+  "spiderX": "/GYjlduMO7IBJJdx",
   "network": "tcp",
   "localPort": 10808
 }
