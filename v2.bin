@@ -1,15 +1,15 @@
 {
   "enabled": true,
   "address": "163.5.153.225",
-  "port": 443,
-  "id": "b68d8d50-204f-4d68-a17d-fff7a923011f",
+  "port": 8443,
+  "id": "7e9d0a74-4898-4d5c-82da-af409eb5bc51",
   "flow": "xtls-rprx-vision",
   "security": "reality",
-  "sni": "eh.vk.com",
-  "fingerprint": "firefox",
-  "publicKey": "7PewRz5N41Dw_EATWRKRv_6FZX_woRVN1UiL-nsx9hg",
-  "shortId": "2d263e",
-  "spiderX": "/AS28nn8DY71RwoE",
+  "sni": "akamai.com",
+  "fingerprint": "qq",
+  "publicKey": "leOYIk9lnmbkRB2wNlzkL4Y9F9-Ktttz35SaTr7kF0E",
+  "shortId": "",
+  "spiderX": "",
   "network": "tcp",
   "localPort": 10808
 }
