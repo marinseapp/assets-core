@@ -1,6 +1,15 @@
 {
-    "a": "mtproxy.neverspy.online",
-    "b": 443,
-    "c": "dde8653d2faf392a302d829d79537abbe7",
-    "d": false
+  "enabled": false,
+  "address": "163.5.153.225",
+  "port": 443,
+  "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
+  "flow": "xtls-rprx-vision",
+  "security": "reality",
+  "sni": "vk.ru",
+  "fingerprint": "firefox",
+  "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+  "shortId": "26505150",
+  "spiderX": "/GYjlduMO7IBJJdx",
+  "network": "tcp",
+  "localPort": 10808
 }
